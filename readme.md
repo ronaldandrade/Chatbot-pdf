@@ -2,6 +2,8 @@
 
 O poder dos modelos da [OpenAI](https://openai.com/) para usados para compreender o texto extraído de PDFs e gerar respostas.
 
+![chatbot-pdf.png](/assets/chatbot-pdf.png)
+
 ## 📋 Índice
 - [Visão Geral](#visão-geral)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
