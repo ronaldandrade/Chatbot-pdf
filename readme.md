@@ -50,7 +50,7 @@ Certifique-se de ter os seguintes itens instalados no seu ambiente:
 * **1 - Clone este repositório:**
 
 ``` bash
-git clone https://github.com/seu-usuario/chatbot-pdf.git
+git clone https://github.com/ronaldandrade/Chatbot-pdf
 
 cd chabot-pdf
 ```
