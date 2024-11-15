@@ -25,7 +25,7 @@ def get_openai_response(text, pdf_text):
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",  # Usar o tipo de gpt de acordo com limite de acesso -gpt 4 - turbo gpt-4-min
             messages=messages,
-            max_tokens=200, #Quantide de tokens de resposta
+            max_tokens=400, #Quantide de tokens de resposta
             temperature=0.7 
         )
 

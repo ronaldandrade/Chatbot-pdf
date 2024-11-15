@@ -67,7 +67,7 @@ if uploaded_file is not None:
 
             if st.session_state.chat_history:
                 for chat in st.session_state.chat_history:
-                    st.write(f"**You:** {chat['user']}")
+                    st.write(f"**Você:** {chat['user']}")
                     st.write(f"**AI:** {chat['ai']}")
 
                 st.write("<style>div.stChat {overflow-y: auto;}</style>", unsafe_allow_html=True)
