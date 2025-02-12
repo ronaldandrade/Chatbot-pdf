@@ -1,6 +1,6 @@
 ## 📄 Chat with PDF 🚀
 
-O poder dos modelos da [OpenAI](https://openai.com/) para usados para compreender o texto extraído de PDFs e gerar respostas.
+O poder dos modelos da [OpenAI](https://openai.com/) usados para compreender o texto extraído de PDFs e gerar respostas.
 
 ![chatbot-pdf.png](/assets/chatbot-pdf.png)
 
